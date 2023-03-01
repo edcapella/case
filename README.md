@@ -7,7 +7,6 @@
 |**Generation Platform**<br>Visual Studio Code|
 |**Floorplan Used**<br>List Report Object Page V2|
 |**Service Type**<br>SAP System (ABAP On Premise)|
-|**Service URL**<br>http://itss4app01.itsgroup.com.br:8000//sap/opu/odata/sap/ZC_AGP_FINAL_CDS
 |**Module Name**<br>appagrupamento|
 |**Application Title**<br>Agrupamento faturas|
 |**Namespace**<br>itsgroupeagrupamento|
